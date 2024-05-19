@@ -9,7 +9,7 @@
 Convert your **plain bookmark** files into a **static web app**.
 
 ![YAML to App diagram](assets/img/workflow.svg)
-
+ 
 </div>
 
 - **Share** your bookmarks app via a single self-contained HTML file.
